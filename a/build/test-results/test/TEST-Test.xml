@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="14" skipped="0" failures="0" errors="0" timestamp="2023-03-13T10:49:37" hostname="DESKTOP-CU96T7I" time="0.073">
+  <properties/>
+  <testcase name="a+b&lt;c" classname="Test" time="0.037"/>
+  <testcase name="涓�鑸笁瑙掑舰" classname="Test" time="0.001"/>
+  <testcase name="绛夎竟涓夎褰�" classname="Test" time="0.001"/>
+  <testcase name="c澶т簬100" classname="Test" time="0.001"/>
+  <testcase name="b灏忎簬1" classname="Test" time="0.001"/>
+  <testcase name="杈撳叆閿欒" classname="Test" time="0.004"/>
+  <testcase name="testT()" classname="Test" time="0.004"/>
+  <testcase name="b澶т簬100" classname="Test" time="0.0"/>
+  <testcase name="a灏忎簬1" classname="Test" time="0.001"/>
+  <testcase name="b+c&lt;a" classname="Test" time="0.001"/>
+  <testcase name="c灏忎簬1" classname="Test" time="0.0"/>
+  <testcase name="a+c&lt;b" classname="Test" time="0.005"/>
+  <testcase name="绛夎叞涓夎褰�" classname="Test" time="0.001"/>
+  <testcase name="a澶т簬100" classname="Test" time="0.001"/>
+  <system-out><![CDATA[true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
